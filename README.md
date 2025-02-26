@@ -239,8 +239,8 @@ Feel free to explore the codebase, run the dashboard locally, or extend the anal
 ## Contact
 
 For questions or collaboration opportunities, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: olanakenea6@gmail.com
+- GitHub: [@olanak](https://github.com/olanak)
 
 ---
 
